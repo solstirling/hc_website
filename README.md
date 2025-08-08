@@ -1,2 +1,1 @@
-# javalearn
-# hc_website
+basic boba website
